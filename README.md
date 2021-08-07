@@ -33,6 +33,6 @@
 
 
 [website]: https://blog.picu.pl
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/piotrolearczyk/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vscodesite]: https://code.visualstudio.com/
