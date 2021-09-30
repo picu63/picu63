@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=blog.picu.pl&style=for-the-badge&url=https%3A%2F%2Fblog.picu.pl)](https://blog.picu.pl)
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
 
-## I'm a Husband (28.08.2021), Dancer, Developer, and Student!!
+## I'm a Developer, Husband, Dancer and IT Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
