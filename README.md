@@ -5,15 +5,16 @@
 
 ## I'm a Developer, Husband, Dancer and IT Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning microservices architecture 😊
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball and listen to music.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Hobbys: I'm professional hip-hop dancer, love to play basketball and listen to music.
 
 ### Connect with me:
 
 [<img align="left" alt="blog.picu.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Piotr Olearczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+^^ Curently hosting problem 😒
 
 <br />
 
