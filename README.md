@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="blog.picu.pl" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][website]
+[<img align="left" alt="https://www.linkedin.com/in/piotrolearczyk/" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][website]
 
 <br />
 
