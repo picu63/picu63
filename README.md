@@ -1,7 +1,7 @@
 ### Hi there, I'm Piotr - aka [PICU][website] 👋
 
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
-[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)](https://picu.pl) - currently developing my official page
+[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)][picuUrl] - currently developing my official page
 
 ## I'm a Developer, Husband (dad soon) and Dancer!!
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/piotrolearczyk/" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][website]
+[<img align="left" alt="LinkedIn profile" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br />
 
@@ -31,7 +31,8 @@
 
 
 
-[website]: https://blog.picu.pl
+[blogPicuUrl]: https://blog.picu.pl
+[picuUrl]: https://picu.pl
 [linkedin]: https://www.linkedin.com/in/piotrolearczyk/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vscodesite]: https://code.visualstudio.com/
