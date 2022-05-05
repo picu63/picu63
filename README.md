@@ -1,7 +1,7 @@
 ### Hi there, I'm Piotr - aka [PICU][website] 👋
 
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
-[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)](https://picu.pl)
+[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)](https://picu.pl) - currently developing my official page
 
 ## I'm a Developer, Husband, Dancer and IT Student!!
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="blog.picu.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - Curently hosting problem 😒<br />
+[<img align="left" alt="blog.picu.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 [<img align="left" alt="Piotr Olearczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
