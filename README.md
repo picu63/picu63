@@ -12,10 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="blog.picu.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
-[<img align="left" alt="Piotr Olearczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
-
+[<img align="left" alt="blog.picu.pl" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][website]
 
 <br />
 
