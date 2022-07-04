@@ -1,20 +1,18 @@
 ### Hi there, I'm Piotr - aka [PICU][website] 👋
 
-[![Website](https://img.shields.io/website?label=blog.picu.pl&style=for-the-badge&url=https%3A%2F%2Fblog.picu.pl)](https://blog.picu.pl)
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
+[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)][picuUrl] - currently developing my official page
 
-## I'm a Developer, Husband, Dancer and IT Student!!
+## I'm a Developer, Husband (dad soon) and Dancer!!
 
-- 🌱 I’m currently learning microservices architecture 😊
+- 🌱 I’m currently learning microservices architecture, devops and IoC 😊
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbys: I'm professional hip-hop dancer, love to play basketball and listen to music.
 
 ### Connect with me:
 
-[<img align="left" alt="blog.picu.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Piotr Olearczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />^^ Curently hosting problem 😒
+[<img align="left" alt="LinkedIn profile" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br />
 
@@ -33,7 +31,8 @@
 
 
 
-[website]: https://blog.picu.pl
+[blogPicuUrl]: https://blog.picu.pl
+[picuUrl]: https://picu.pl
 [linkedin]: https://www.linkedin.com/in/piotrolearczyk/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [vscodesite]: https://code.visualstudio.com/
