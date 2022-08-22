@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
 [![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)][picuUrl] - currently developing my official page
 
-## I'm a Developer, Husband (dad soon) and Dancer!!
+## I'm a Developer, Husband, Dad and Dancer!!
 
 - 🌱 I’m currently learning microservices architecture, devops and IoC 😊
 - 👯 I’m looking to collaborate with other content creators
