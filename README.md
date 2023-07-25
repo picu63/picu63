@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning microservices architecture, devops and IoC 😊
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Hobbys: I'm professional hip-hop dancer, love to play basketball and listen to music.
 
 ### Connect with me:
