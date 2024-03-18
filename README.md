@@ -6,6 +6,7 @@
 ## I'm a Developer, Husband, Dad and Dancer!!
 
 - 🌱 I’m currently learning python (for Big Data warehouses), react, devops and IoC 😊
+- 🏠 Smart home enthusiast - (https://www.home-assistant.io/)[Home Assistant]
 - 👯 I’m looking to collaborate with other open-source creators
 - 🥅 2024 Goals: Make a certificate from Azure exam AZ-900 
 - ⚡ Hobbys: I'm professional hip-hop dancer, love to play basketball and listen to music.
