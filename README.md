@@ -1,7 +1,7 @@
 ### Hi there, I'm Piotr - aka [PICU][website] 👋
 
 [![Twitter Follow](https://img.shields.io/github/followers/picu63?style=for-the-badge)](#)
-[![Website](https://img.shields.io/website?label=picu.pl&url=http%3A%2F%2Fpicu.pl%2F)][picuUrl] - currently developing my official page
+[![Website](https://img.shields.io/website?label=olearczyk.dev&url=http%3A%2F%2Folearczyk.dev%2F)][picuUrl] - currently developing my official page
 
 ## I'm a Developer, Husband, Dad and Dancer!!
 
