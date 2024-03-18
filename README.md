@@ -6,8 +6,8 @@
 ## I'm a Developer, Husband, Dad and Dancer!!
 
 - 🌱 I’m currently learning python (for Big Data warehouses), react, devops and IoC 😊
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other open-source creators
+- 🥅 2024 Goals: Make a certificate from Azure exam AZ-900 
 - ⚡ Hobbys: I'm professional hip-hop dancer, love to play basketball and listen to music.
 
 ### Connect with me:
